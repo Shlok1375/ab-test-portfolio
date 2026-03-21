@@ -1,0 +1,14 @@
+{
+  "n_per_group": 25000,
+  "naive_lift_sessions": 0.4107,
+  "cuped_lift_sessions": 0.4117,
+  "cuped_p_value": 0.0,
+  "variance_reduction_pct": 0.9,
+  "conv_lift_abs": 0.0248,
+  "conv_lift_pct": 9.6,
+  "revenue_lift": 0.45,
+  "ticket_lift_pct": 6.9,
+  "top_segment": "25-34",
+  "top_segment_lift": 0.431,
+  "overall_lift": 0.411
+}
