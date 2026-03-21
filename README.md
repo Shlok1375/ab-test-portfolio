@@ -1,6 +1,6 @@
 # Rigorous A/B Test Analysis: Beyond Statistical Significance
 
-**Author:** Shlok Sheth | [Portfolio](https://shloksheth.netlify.app) | [LinkedIn](https://www.linkedin.com/in/shlok-sheth2016/)
+**Author:** Shlok Sheth | [Portfolio](https://shethshlok.netlify.app) | [LinkedIn](https://www.linkedin.com/in/shlok-sheth2016/)
 
 ---
 
@@ -8,7 +8,7 @@
 
 A product team built a new engagement feature. The naive analyst checks p < 0.05 and calls it done.
 
-This project shows what rigorous experiment analysis actually looks like — the kind that holds up in a product review, not just a notebook.
+This project shows what rigorous experiment analysis actually looks like, the kind that holds up in a product review, not just a notebook.
 
 ---
 
@@ -44,7 +44,7 @@ Decision:                LAUNCH
 
 ## Why Guardrails Matter
 
-Statistical significance on the primary metric is not enough. A feature can move sessions up while quietly increasing support tickets or unsubscribes. Both guardrails were checked and held — that is what makes the launch recommendation credible.
+Statistical significance on the primary metric is not enough. A feature can move sessions up while quietly increasing support tickets or unsubscribes. Both guardrails were checked and held, that is what makes the launch recommendation credible.
 
 ---
 
@@ -94,10 +94,10 @@ jupyter>=1.0
 
 ## Limitations
 
-1. Synthetic dataset — designed to mirror realistic product experiment structure but not real user data
+1. Synthetic dataset: designed to mirror realistic product experiment structure but not real user data
 2. CUPED assumes a linear relationship between the covariate and outcome
-3. Segment analysis increases Type I error risk — results should be treated as directional, not confirmatory
+3. Segment analysis increases Type I error risk, results should be treated as directional, not confirmatory
 
 ---
 
-*Part of my product data science portfolio. See [shloksheth.netlify.app](https://shloksheth.netlify.app) for more.*
+*Part of my product data science portfolio. See [shethshlok.netlify.app](https://shethshlok.netlify.app) for more.*
