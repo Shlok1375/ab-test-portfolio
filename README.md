@@ -35,7 +35,7 @@ Variance reduction:       0.9% via CUPED
 Conversion lift:         +9.6%  (significant)
 Revenue lift:            +$0.45 per user
 Support tickets:         +6.9%  (not significant — guardrail holds)
-Unsubscribe rate:         not significant — guardrail holds
+Unsubscribe rate:         not significant: guardrail holds
 Strongest segment:        25-34 age group (+0.431 sessions)
 Decision:                LAUNCH
 ```
